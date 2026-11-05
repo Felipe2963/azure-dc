@@ -1,2 +1,2 @@
 # render-flask-sue
-Aplicación Flask con despliegue continuo en Render
+Aplicación Flask con despliegue continuo en Azure
